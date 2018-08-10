@@ -1,5 +1,5 @@
 <?php 
-const SITE_URL = 'http://goshopping.com/';
+const SITE_URL = 'https://advancedprojectak.herokuapp.com/';
 const ADMIN_URL = SITE_URL."/admin/";
 
 define('INC_PATH', $_SERVER['DOCUMENT_ROOT']."/admin/");
